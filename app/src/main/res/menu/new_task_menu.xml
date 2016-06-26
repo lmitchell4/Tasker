@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.android.lm.tasker.activities.MainActivity">
+    <!--<item-->
+        <!--android:id="@+id/menu_newtask_cancel"-->
+        <!--app:showAsAction="always"-->
+        <!--android:title="@string/menu_cancel" />-->
+    <!--<item-->
+        <!--android:id="@+id/menu_newtask_add"-->
+        <!--android:icon="@drawable/percent"-->
+        <!--app:showAsAction="always"-->
+        <!--android:title="@string/menu_cancel" />-->
+    <!--<item-->
+        <!--android:id="@+id/menu_newtask_action_settings"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/action_settings"-->
+        <!--app:showAsAction="never" />-->
+</menu>
